@@ -1,1 +1,1 @@
-# knights-tour-genetic
+# problema-do-passeio-do-cavalo
